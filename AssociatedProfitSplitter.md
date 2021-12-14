@@ -17,3 +17,4 @@ Metamask reflects the transaction
 <img width="1440" alt="Screen Shot 2021-12-13 at 12 44 06 PM" src="https://user-images.githubusercontent.com/87285522/145940241-29bf280d-6f39-4982-9df1-58b845385ac2.png">
 
 The ledger shows the changes in the accounts.
+<img width="1191" alt="Screen Shot 2021-12-13 at 12 44 41 PM" src="https://user-images.githubusercontent.com/87285522/145940677-126ea8f9-e96c-4c37-bcaf-6bde72e51d82.png">
