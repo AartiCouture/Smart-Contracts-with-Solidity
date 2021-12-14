@@ -9,3 +9,5 @@ The smart contract AssociateProfitSplitter.sol is compiled.
 
 The smart contract is deployed.
 <img width="1432" alt="Screen Shot 2021-12-13 at 12 03 41 PM" src="https://user-images.githubusercontent.com/87285522/145939787-057172dd-11b8-44ac-a3e5-8e3c49ec978d.png">
+
+The smart contract executes a deposit.
