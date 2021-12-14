@@ -12,3 +12,6 @@ The smart contract is deployed.
 
 The smart contract executes a deposit.
 <img width="1440" alt="Screen Shot 2021-12-13 at 12 43 31 PM" src="https://user-images.githubusercontent.com/87285522/145940135-ed3f3a4c-2358-4e1d-92c7-9c4182b75c5a.png">
+
+Metamask reflects the transaction
+<img width="1440" alt="Screen Shot 2021-12-13 at 12 44 06 PM" src="https://user-images.githubusercontent.com/87285522/145940241-29bf280d-6f39-4982-9df1-58b845385ac2.png">
