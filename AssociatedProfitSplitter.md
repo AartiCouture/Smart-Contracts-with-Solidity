@@ -11,3 +11,4 @@ The smart contract is deployed.
 <img width="1432" alt="Screen Shot 2021-12-13 at 12 03 41 PM" src="https://user-images.githubusercontent.com/87285522/145939787-057172dd-11b8-44ac-a3e5-8e3c49ec978d.png">
 
 The smart contract executes a deposit.
+<img width="1440" alt="Screen Shot 2021-12-13 at 12 43 31 PM" src="https://user-images.githubusercontent.com/87285522/145940135-ed3f3a4c-2358-4e1d-92c7-9c4182b75c5a.png">
